@@ -49,6 +49,9 @@ dependencies {
     // Kotlin Parcelize
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
 
+    //imagePicker
+    implementation("com.github.dhaval2404:imagepicker:2.1")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

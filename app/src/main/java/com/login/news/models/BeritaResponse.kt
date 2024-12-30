@@ -9,7 +9,7 @@ data class BeritaResponse(
     data class ListItem(
         val id: Int,
         val judul: String,
-        val isi_berita: String,
+        val isi: String,
         val tgl_indonesia_berita: String,
         val gambar: String,
         val rating: Double
